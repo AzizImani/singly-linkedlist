@@ -1,0 +1,10 @@
+.idea/
+alt-api/target/
+alt-common/target/
+alt-model/target/
+alt-service/target/
+alt-web/target/
+alt-repository/target/*
+*.iml
+*.lst
+*.class
